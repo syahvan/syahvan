@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Syahvan+Alviansyah...;Nice+to+meet+you!&center=true&size=40">
+  </a>
+</h1>
+
 <p align="left">Welcome to my GitHub profile!<br><br>I'm a passionate machine learning engineer from Indonesia 🇮🇩, with a strong interest in leveraging data-driven solutions to tackle real-world problems. My journey in the field of machine learning began with a curiosity to understand and solve complex problems using data. Over the years, I've developed a strong foundation in various machine learning techniques and frameworks, constantly exploring new ideas and technologies to enhance my skills.</p>
 
 ###
