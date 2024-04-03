@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syahvan&label=Profile%20views&color=0e75b6&style=flat" alt="syahvan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syahvan" alt="syahvan" /></a> </p>
-
 - 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/syahvan](https://github.com/syahvan)
