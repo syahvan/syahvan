@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syahvan&label=Profile%20views&color=0e75b6&style=flat" alt="syahvan" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syahvan" alt="syahvan" /></a> </p>
+
+- 🔭 I’m currently working on **Diponegoro University**
+
 - 🌱 I’m currently learning **Generative AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/syahvan](https://github.com/syahvan)
-
-- 📝 I regularly write articles on [https://syahvan.medium.com/](https://syahvan.medium.com/)
 
 - 💬 Ask me about **Computer Vision, NLP, and Data Science**
 
 - 📫 How to reach me **syahvanalviansyah91@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/18kuUX4h-c3OooueN9acEsi_Xsr1RHnyp/view?usp=sharing](https://drive.google.com/file/d/18kuUX4h-c3OooueN9acEsi_Xsr1RHnyp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
