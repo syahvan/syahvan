@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Syahvan+Alviansyah....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 # 💫 About Me:
 🎓 I’m currently studying on Diponegoro University<br>🌱 I’m currently learning Generative AI<br>💬 Ask me about Computer Vision, NLP, and Data Science<br>📫 How to reach me: syahvanalviansyah91@gmail.com<br>
 
