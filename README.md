@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<p align="left">Welcome to my GitHub profile!<br><br>I'm a passionate machine learning engineer from Indonesia 🇮🇩, with a strong interest in leveraging data-driven solutions to tackle real-world problems. My journey in the field of machine learning began with a curiosity to understand and solve complex problems using data. Over the years, I've developed a strong foundation in various machine learning techniques and frameworks, constantly exploring new ideas and technologies to enhance my skills.</p>
+<p align="left">Welcome to my GitHub profile!<br><br>I'm a passionate <strong>machine learning engineer</strong> from Indonesia 🇮🇩, with a strong interest in leveraging data-driven solutions to tackle real-world problems. My journey in the field of machine learning began with a curiosity to understand and solve complex problems using data. Over the years, I've developed a strong foundation in various machine learning techniques and frameworks, constantly exploring new ideas and technologies to enhance my skills.</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🎓 I hold a degree in Electrical Engineering from Diponegoro University.<br>- 🌱 I'm continuously learning and exploring new techniques and algorithms in the field of machine learning.<br>- 💡 I'm passionate about applying machine learning to various domains, including Computer Vision, Natural Language Processing, and Data Science.<br>- 📝 I occasionally write about my experiences and insights on Medium.</p>
+<p align="left"> 🎓 I hold a degree in <strong>Electrical Engineering</strong> from Diponegoro University.<br> 🌱 I'm continuously learning and exploring new techniques and algorithms in the field of machine learning.<br>💡 I'm passionate about applying machine learning to various domains, including <strong>Computer Vision</strong>, <strong>Natural Language Processing</strong>, and <strong>Data Science</strong>.<br> 📝 I occasionally write about my experiences and insights on <a href="https://medium.com/@syahvan">Medium</a>.</p>
 
 ###
 
