@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Syahvan+Alviansyah...;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
 <p align="left">Welcome to my GitHub profile!<br><br>I'm a passionate machine learning engineer from Indonesia 🇮🇩, with a strong interest in leveraging data-driven solutions to tackle real-world problems. My journey in the field of machine learning began with a curiosity to understand and solve complex problems using data. Over the years, I've developed a strong foundation in various machine learning techniques and frameworks, constantly exploring new ideas and technologies to enhance my skills.</p>
 
 ###
@@ -98,7 +92,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syahvan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syahvan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=syahvan&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -112,7 +105,7 @@
   <a href="https://www.linkedin.com/in/syahvanalviansyah/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="syahvanalviansyah91@gmail.com" target="_blank">
+  <a href="mailto:syahvanalviansyah91@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/syahvan_/" target="_blank">
@@ -120,9 +113,6 @@
   </a>
   <a href="https://www.youtube.com/@syahvan_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://syahvan.medium.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
 
@@ -149,9 +139,5 @@
 ###
 
 <p align="left">I'm open to collaborating on projects related to machine learning, data science, and AI. If you have an interesting project or idea, feel free to reach out!</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/syahvan/syahvan/output/snake.svg" alt="Snake animation" />
 
 ###
