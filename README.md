@@ -130,7 +130,7 @@
 
 ###
 
-<h1 align="left">🤝 Open to Collaboration</h1>
+<h1 align="left">🤝 Collaboration Opportunities</h1>
 
 ###
 
