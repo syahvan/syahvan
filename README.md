@@ -111,18 +111,14 @@
 ###
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syahvanalviansyah) 
-[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:syahvanalviansyah91@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:syahvanalviansyah91@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syahvan_)
-[![YouTube](https://img.shields.io/badge/YouTube-Your_Username-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/user/YourUsername](https://www.youtube.com/@syahvan_))
-[![Spotify](https://img.shields.io/badge/Spotify-Your_Username-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ljg174tbgvcz5giuvfwcv1kh0) 
+[![YouTube](https://img.shields.io/badge/Youtube-%23CD201F.svg?logo=youtube&logoColor=white)]([https://www.youtube.com/user/YourUsername](https://www.youtube.com/@syahvan_))
+[![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/ljg174tbgvcz5giuvfwcv1kh0) 
 
 ###
 
-<p align="left">🎧 Connect with Me on <a href="https://open.spotify.com/user/ljg174tbgvcz5giuvfwcv1kh0">Spotify</a>!</p>
-
-###
-
-<p align="left">Here are some of the recent tracks I've listened to on Spotify:</p>
+<p align="left">🎧 Connect with Me on <a href="https://open.spotify.com/user/ljg174tbgvcz5giuvfwcv1kh0">Spotify</a>! Here are some of the recent tracks I've listened to on Spotify:</p>
 
 ###
 
