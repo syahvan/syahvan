@@ -137,9 +137,6 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/ljg174tbgvcz5giuvfwcv1kh0">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ljg174tbgvcz5giuvfwcv1kh0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify recently played"  />
-  </a>
-  <a href="https://open.spotify.com/user/ljg174tbgvcz5giuvfwcv1kh0">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ljg174tbgvcz5giuvfwcv1kh0&count=5" alt="Spotify recently played"  />
   </a>
 </div>
