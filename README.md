@@ -111,10 +111,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/syahvanalviansyah/" target="_blank">
+  <a href="https://www.linkedin.com/in/syahvanalviansyah/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:syahvanalviansyah91@gmail.com" target="_blank">
+  <a href="mailto:syahvanalviansyah91@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/syahvan_/" target="_blank">
