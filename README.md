@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">🚀 About Me</h2>
+<h1 align="left">🚀 About Me</h1>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">👨‍💻 Technologies & Tools</h2>
+<h1 align="left">👨‍💻 Technologies & Tools</h1>
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-<h2 align="left">📈 GitHub Stats</h2>
+<h1 align="left">📈 GitHub Stats</h1>
 
 ###
 
@@ -106,7 +106,7 @@
 
 ###
 
-<h2 align="left">📫 Let's Connect!</h2>
+<h1 align="left">📫 Let's Connect!</h1>
 
 ###
 
@@ -127,7 +127,7 @@
 
 ###
 
-<h3 align="left">🎧 Spotify</h3>
+<h2 align="left">🎧 Spotify</h2>
 
 ###
 
@@ -143,7 +143,7 @@
 
 ###
 
-<h2 align="left">🤝 Open to Collaboration</h2>
+<h1 align="left">🤝 Open to Collaboration</h1>
 
 ###
 
