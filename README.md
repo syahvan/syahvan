@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left"> 🎓 I hold a degree in <strong>Electrical Engineering</strong> from Diponegoro University.<br> 🌱 I'm continuously learning and exploring new techniques and algorithms in the field of machine learning.<br>💡 I'm passionate about applying machine learning to various domains, including <strong>Computer Vision</strong>, <strong>Natural Language Processing</strong>, and <strong>Data Science</strong>.<br> 📝 I occasionally write about my experiences and insights on <a href="https://medium.com/@syahvan">Medium</a>.</p>
+<p align="left"> 🎓 I hold a degree in <strong>Electrical Engineering</strong> from Diponegoro University.<br> 🌱 I'm continuously learning and exploring new techniques and algorithms in the field of machine learning.<br>💡 I'm passionate about applying machine learning to various domains, including <strong>Computer Vision</strong>, <strong>NLP</strong>, and <strong>Data Science</strong>.<br> 📝 I occasionally write about my experiences and insights on <a href="https://medium.com/@syahvan">Medium</a>.</p>
 
 ###
 
