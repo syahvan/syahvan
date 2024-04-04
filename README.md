@@ -114,7 +114,7 @@
 
 ###
 
-<p align="left">🎧 Connect with Me on <a href="https://open.spotify.com/user/ljg174tbgvcz5giuvfwcv1kh0">Spotify</a>! Here are some of the recent tracks I've listened to on Spotify:</p>
+<p align="left">🎧 Connect with me on Spotify! Here are some of the recent tracks I've listened to on Spotify:</p>
 
 ###
 
