@@ -111,7 +111,7 @@
 ###
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syahvanalviansyah) 
-[![Gmail](https://img.shields.io/badge/Gmail-Your_Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syahvanalviansyah91@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:syahvanalviansyah91@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syahvan_)
 [![YouTube](https://img.shields.io/badge/YouTube-Your_Username-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/user/YourUsername](https://www.youtube.com/@syahvan_))
 [![Spotify](https://img.shields.io/badge/Spotify-Your_Username-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ljg174tbgvcz5giuvfwcv1kh0) 
