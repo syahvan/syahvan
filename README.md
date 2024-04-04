@@ -127,7 +127,7 @@
 
 ###
 
-<h2 align="left">🎧 Connect with Me on Spotify!</h2>
+<h2 align="left">🎧 Connect with Me on <a href="https://open.spotify.com/user/ljg174tbgvcz5giuvfwcv1kh0">Spotify</a>!</h2>
 
 ###
 
