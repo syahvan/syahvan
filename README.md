@@ -8,7 +8,7 @@
 
 <p align="left">🤖 Welcome to my GitHub profile!<br><br>I'm a passionate <strong>machine learning engineer</strong> from Indonesia 🇮🇩, with a strong interest in leveraging data-driven solutions to tackle real-world problems. My journey in the field of machine learning began with a curiosity to understand and solve complex problems using data. Over the years, I've developed a strong foundation in various machine learning techniques and frameworks, constantly exploring new ideas and technologies to enhance my skills.</p>
 
-<p align="left">🔍 Enjoy exploring my profile, and feel free to reach out for collaborations, discussions, or just to connect! 
+<p align="left">Enjoy exploring my profile, and feel free to reach out for collaborations, discussions, or just to connect! 
   <br>
   Let's innovate and learn together 🚀</p>
 
