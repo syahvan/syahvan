@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syahvan&label=Profile%20views&color=0e75b6&style=flat" alt="syahvan" /> </p>
 
-<p align="left">Welcome to my GitHub profile!<br><br>I'm a passionate <strong>machine learning engineer</strong> from Indonesia 🇮🇩, with a strong interest in leveraging data-driven solutions to tackle real-world problems. My journey in the field of machine learning began with a curiosity to understand and solve complex problems using data. Over the years, I've developed a strong foundation in various machine learning techniques and frameworks, constantly exploring new ideas and technologies to enhance my skills.</p>
+<p align="left">🤖 Welcome to my GitHub profile!<br><br>I'm a passionate <strong>machine learning engineer</strong> from Indonesia 🇮🇩, with a strong interest in leveraging data-driven solutions to tackle real-world problems. My journey in the field of machine learning began with a curiosity to understand and solve complex problems using data. Over the years, I've developed a strong foundation in various machine learning techniques and frameworks, constantly exploring new ideas and technologies to enhance my skills.</p>
 
 ###
 
@@ -99,8 +99,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syahvan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=syahvan&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=syahvan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Syahvan's%20Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syahvan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=syahvan&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
