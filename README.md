@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syahvan&label=Profile%20views&color=0e75b6&style=flat" alt="syahvan" /> </p>
-
 <p align="left">🤖 Welcome to my GitHub profile!<br><br>I'm a passionate <strong>machine learning engineer</strong> from Indonesia 🇮🇩, with a strong interest in leveraging data-driven solutions to tackle real-world problems. My journey in the field of machine learning began with a curiosity to understand and solve complex problems using data. Over the years, I've developed a strong foundation in various machine learning techniques and frameworks, constantly exploring new ideas and technologies to enhance my skills.</p>
 
 <p align="left">Enjoy exploring my profile, and feel free to reach out for collaborations, discussions, or just to connect! 
