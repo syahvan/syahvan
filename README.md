@@ -122,11 +122,3 @@
 </div>
 
 ###
-
-<h1 align="left">🤝 Collaboration Opportunities</h1>
-
-###
-
-<p align="left">I'm open to collaborating on projects related to machine learning, data science, and AI. If you have an interesting project or idea, feel free to reach out! 🙌🏻</p>
-
-###
