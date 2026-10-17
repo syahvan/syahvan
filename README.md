@@ -110,15 +110,3 @@
 [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/ljg174tbgvcz5giuvfwcv1kh0) 
 
 ###
-
-<p align="left">🎧 Connect with me on Spotify! Here are some of the recent tracks I've listened to on Spotify:</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ljg174tbgvcz5giuvfwcv1kh0">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ljg174tbgvcz5giuvfwcv1kh0&width=700" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
